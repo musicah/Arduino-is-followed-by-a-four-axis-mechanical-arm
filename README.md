@@ -1,5 +1,4 @@
 ﻿# Arduino is followed by a four-axis mechanical arm
-___
  Arduino随动四轴机械臂，机械臂实现步骤记录、复现功能
 
 制作这个机械臂是机器人课程老师留下的作业，任务要求是夹取印章，然后在指定的地方盖章。程序要求能记录步骤，并且复现出来。
